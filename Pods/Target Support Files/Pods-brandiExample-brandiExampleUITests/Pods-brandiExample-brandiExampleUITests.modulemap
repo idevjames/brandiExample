@@ -1,0 +1,6 @@
+framework module Pods_brandiExample_brandiExampleUITests {
+  umbrella header "Pods-brandiExample-brandiExampleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
