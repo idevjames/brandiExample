@@ -52,6 +52,7 @@ class SearchViewController: ViewController {
     }
     
     private func setProperties() {
+        collectionView.keyboardDismissMode = .onDrag
         navigationItem.title = "Search Images"
         emptyLabel.isHidden = true
     }
